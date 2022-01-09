@@ -6,12 +6,17 @@ const postRoutes = require('./routes/postRoutes');
 
 const app = express();
 
-
+//Por
 const port = 3000;
 
+//Public asset files
+app.use(express.static('public'));
+
+// Template engine
 app.set('views','view')
 app.set('view engine', 'ejs')
 
+//Body parser
 app.use(express.json());
 
 //Main Routes
