@@ -2,6 +2,13 @@
 ## Introduction
 This public forum is for anyone who wants to discuss anything they want to discuss from Entertainment, Technology, Science, Sport etc.
 
+## Table of Contents
+1. <a href="#introduction">Introduction</a>
+2. <a href="#tech-stack-used">Tech Stack Used</a>
+3. <a href="#how-to-use">How To Use</a>
+4. <a href="#author">Author</a>
+5. <a href="#license">License</a>
+
 ## Tech Stack Used
 
 - [Node Js](https://nodejs.org/en/) | Version: 16.13.1
